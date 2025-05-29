@@ -42,15 +42,7 @@ This application automates resume screening using **AI-driven text analysis**. I
 2. Upload multiple **PDF resumes**.  
 3. The system will extract text, compare resumes, and **rank candidates**.  
 4. View ranked results based on **cosine similarity scores**.  
-
-## 📷 Demo  
-
-![AI Resume Screening Demo](https://your-image-link.com/demo.png)  
-
-## 📜 License  
-
-This project is **open-source** and available under the **MIT License**.  
-
+ 
 
 ## 🤝 Contributing  
 
